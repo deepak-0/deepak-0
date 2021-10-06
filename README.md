@@ -1,6 +1,6 @@
 ### Hi there 👋   
 This is Deepak 
-
+Just getting started with exploring 
 <!--
 **deepak-0/deepak-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
