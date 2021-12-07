@@ -1,9 +1,7 @@
 ### Hi there 👋   
 ### This is Deepak 
 
-- 🔭 I’m currently working on Java and SQL
-- 🌱 I’m currently learning JavaScript
-- :bookmark_tabs: Exploring things by googling it :smiley:
+-
 
 <!--
 **deepak-0/deepak-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
